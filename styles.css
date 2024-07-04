@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f1fa;
+  color: #333;
+}
+
+header,
+section {
+  padding: 50px;
+  text-align: center;
+}
+
+.intro-section {
+  background-color: #e6e1f2;
+  padding: 100px 50px;
+}
+
+.project-title {
+  font-size: 3em;
+  margin: 20px 0;
+  color: #5d3f92;
+}
+
+.project-tagline {
+  font-size: 1.2em;
+  color: #7a5fb1;
+}
+
+.navigation {
+  margin: 20px 0;
+}
+
+.navigation a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #5d3f92;
+  font-weight: bold;
+}
+
+.deployed-app-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 15px 30px;
+  background-color: #5d3f92;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.deployed-app-button:hover {
+  background-color: #3e2872;
+}
+
+.feature-section {
+  background-color: #f4f1fa;
+}
+
+.feature-section h2 {
+  color: #5d3f92;
+}
+
+.feature {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.feature h3 {
+  margin: 10px 0;
+  color: #5d3f92;
+}
+
+.about-section {
+  background-color: #e6e1f2;
+}
+
+.about-section h2 {
+  color: #5d3f92;
+}
+
+.team {
+  margin: 30px 0;
+}
+
+.team-member {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+.team-member p {
+  margin: 10px 0;
+}
+
+.team-member a {
+  margin: 0 5px;
+  text-decoration: none;
+  color: #5d3f92;
+  font-weight: bold;
+}
+
+.github-link {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 15px 30px;
+  background-color: #5d3f92;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.github-link:hover {
+  background-color: #3e2872;
+}
